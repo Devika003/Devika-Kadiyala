@@ -1,7 +1,7 @@
-Hi, I'm Devika
-I'm interested in programming and mainly Cyber-Security
-I'm currently persuing B-Tech(4-year)
-I'm looking to collaborate on various platforms 
+Hi, I'm Devika,
+I'm interested in programming and mainly Cyber-Security,
+I'm currently persuing B-Tech(4-year),
+I'm looking to collaborate on various platforms. 
 
 
 <!---
